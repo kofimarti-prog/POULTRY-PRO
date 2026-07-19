@@ -1,0 +1,32 @@
+{
+  "packageId": "com.yourcompany.coopbook",
+  "host": "REPLACE_WITH_YOUR_DEPLOYED_DOMAIN.com",
+  "name": "Coop Book",
+  "launcherName": "Coop Book",
+  "display": "standalone",
+  "themeColor": "#0C3521",
+  "navigationColor": "#0C3521",
+  "backgroundColor": "#F7F9F6",
+  "startUrl": "/index.html",
+  "iconUrl": "https://REPLACE_WITH_YOUR_DEPLOYED_DOMAIN.com/icon-512.png",
+  "maskableIconUrl": "https://REPLACE_WITH_YOUR_DEPLOYED_DOMAIN.com/icon-maskable-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "3.0.0",
+  "appVersionCode": 3,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://REPLACE_WITH_YOUR_DEPLOYED_DOMAIN.com/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    }
+  },
+  "enableNotifications": false,
+  "isChromeOSOnly": false,
+  "orientation": "portrait"
+}
