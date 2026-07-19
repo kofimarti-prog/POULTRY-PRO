@@ -1,5 +1,6 @@
 # Coop Book v3 — Deployment & Bubblewrap Guide
 
+
 **What's new in v3:** vaccination scheduling (with a standard template you can apply per flock), a full poultry calculator suite (FCR, feed/water estimators, heat stress index, stocking density, equipment planner, ventilation, water dilution scaling, bedding estimator, EPEF), 4 new languages (Indonesian, Urdu, Bengali, Portuguese — 9 total), and a new icon combining the chick motif with a data/chart element. All calculator and vaccination features are free for all users — only multi-flock, smart alerts, 30-day trends, and export remain behind the $20 Pro unlock.
 
 **Important note on the dilution/medicine calculator:** it only scales quantities the farmer enters from their own vet or product label — it does not recommend any drug, active ingredient, or dosage amount. This is a deliberate safety boundary; do not add specific medicine recommendations to this calculator without qualified veterinary review, since incorrect dosing guidance could harm animals or affect food safety.
